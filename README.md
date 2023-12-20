@@ -30,8 +30,8 @@ The code was written and supported by [Yaqi Liu](https://github.com/yaqiliu-cs).
 - NVIDIA GPU + CUDA
 
 
-### Generated datasets
-- [Combination Sets](https://drive.google.com/file/d/1lkSk0YXKF5lQ7Byytjs2jEz-w74XNRn0/view?usp=sharing).
+### Generated BESTI dataset
+- [BESTI](https://drive.google.com/file/d/1lkSk0YXKF5lQ7Byytjs2jEz-w74XNRn0/view?usp=sharing).
 
 
 ## Authorship
