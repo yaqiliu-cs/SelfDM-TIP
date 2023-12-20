@@ -39,6 +39,10 @@ The code was written and supported by [Yaqi Liu](https://github.com/yaqiliu-cs).
 ### Pre-trained models
 Download our pre-trained [selfdm](https://drive.google.com/file/d/16mDQmmNlLRj2TC-td2NiczpFc3WX1GhE/view?usp=sharing)
 
+- Test selfdm model
+```bash
+python proposals_coco.py
+```
 
 ## Authorship
 
