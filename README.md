@@ -33,6 +33,9 @@ The code was written and supported by [Yaqi Liu](https://github.com/yaqiliu-cs).
 ### Generated BESTI dataset
 - [BESTI](https://drive.google.com/file/d/1lkSk0YXKF5lQ7Byytjs2jEz-w74XNRn0/view?usp=sharing).
 
+### Pre-trained models
+Download our pre-trained [selfdm](https://drive.google.com/file/d/16mDQmmNlLRj2TC-td2NiczpFc3WX1GhE/view?usp=sharing)
+
 
 ## Authorship
 
