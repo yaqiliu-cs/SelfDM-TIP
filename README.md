@@ -17,6 +17,9 @@ The code is for **Research Use Only**. If you use this code for your research, p
 }
 ```
 
+## Acknowledgement
+
+Our project relies on the codes from [DeepMask](https://github.com/foolwood/deepmask-pytorch), [SuperGlue](https://github.com/magicleap/SuperGluePretrainedNetwork), and [ConvCRF](https://github.com/MarvinTeichmann/ConvCRF?tab=readme-ov-file). You can download their pretrained models from their projects and kindly cite their papers.
 
 ## Getting Started
 
