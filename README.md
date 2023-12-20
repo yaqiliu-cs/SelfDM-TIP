@@ -31,7 +31,7 @@ The code was written and supported by [Yaqi Liu](https://github.com/yaqiliu-cs).
 
 
 ### Generated datasets
-- [BESTI]([https://drive.google.com/open?id=1LcoojC4T9oED6r-MuynUWKn11jihllVm](https://drive.google.com/file/d/1lkSk0YXKF5lQ7Byytjs2jEz-w74XNRn0/view?usp=drive_link)).
+- [Combination Sets](https://drive.google.com/file/d/1lkSk0YXKF5lQ7Byytjs2jEz-w74XNRn0/view?usp=sharing).
 
 
 ## Authorship
