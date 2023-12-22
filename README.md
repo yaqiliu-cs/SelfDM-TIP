@@ -1,4 +1,4 @@
-# SelfDM
+# SelfDM+PS
 
 
 ## Citation
@@ -52,7 +52,7 @@ cd SelfDM-TIP
 ### Pre-trained model
 Download our pre-trained [selfdm](https://drive.google.com/file/d/16mDQmmNlLRj2TC-td2NiczpFc3WX1GhE/view?usp=sharing)
 
-- Test selfdm model
+- Test selfdm+PS model
 ```bash
 python proposals_coco.py
 ```
