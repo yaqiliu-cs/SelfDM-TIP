@@ -32,6 +32,19 @@ The code was written and supported by [Yaqi Liu](https://github.com/yaqiliu-cs).
 - Python 3
 - NVIDIA GPU + CUDA
 
+### Installation
+
+```bash
+conda create --name selfdm python=3.6 -y 
+conda activate selfdm
+conda install pytorch==1.7.1 torchvision==0.8.2 torchaudio==0.7.2 cudatoolkit=11.0 -c pytorch
+pip install -r requirements.txt 
+```
+- Clone this repo:
+```bash
+git clone https://github.com/yaqiliu-cs/SelfDM-TIP
+cd SelfDM-TIP
+```
 
 ### Generated BESTI dataset
 - [BESTI](https://drive.google.com/file/d/1lkSk0YXKF5lQ7Byytjs2jEz-w74XNRn0/view?usp=sharing).
